@@ -1,14 +1,14 @@
 # 💫 Acerca de mí
 
-¡Hola! Soy Alberto Góngora, un apasionado estudiante de Full Stack Developer con un entusiasmo desbordante por el desarrollo web y la mejora constante. Mi enfoque detallista y metodológico me impulsa a abordar desafíos de manera creativa y a buscar soluciones innovadoras.
+¡Hola! Soy Alberto Góngora, un apasionado estudiante de Full Stack Developer con un entusiasmo desbordante por el desarrollo web y la mejora contínua. Mi enfoque detallista y metodológico me impulsa a abordar desafíos de manera creativa y a buscar soluciones innovadoras.
 ## Experiencia y Educación
 Actualmente, estoy inmerso en mi formación de Full Stack Developer en Hack a Boss, donde estoy adquiriendo habilidades integrales para convertirme en un desarrollador web versátil y altamente competente. Este viaje de aprendizaje no solo representa mi compromiso con la excelencia, sino también mi pasión por seguir creciendo en el emocionante campo del desarrollo de software.
 ## Habilidades Técnicas
-Como apasionado del desarrollo web, he consolidado mis habilidades en tecnologías clave como HTML, CSS, JavaScript, y estoy trabajando diligentemente en la construcción de proyectos prácticos que demuestren mi destreza técnica. Además, estoy explorando constantemente nuevas tecnologías y metodologías para mantenerme actualizado en un mundo digital en constante evolución.
+Como apasionado del desarrollo web, he consolidado mis habilidades en tecnologías clave como HTML, CSS, JavaScript, y estoy trabajando en la construcción de proyectos prácticos que demuestren mi destreza técnica. Además, estoy explorando constantemente nuevas tecnologías y metodologías para mantenerme actualizado en un mundo digital en constante evolución.
 ## Proyectos Destacados
-A pesar de ser relativamente nuevo en este apasionante viaje del desarrollo web, he tenido el privilegio de dar vida a varios proyectos que atestiguan mi capacidad para enfrentar desafíos complejos y mi firme compromiso con la calidad. ¡Echa un vistazo a mi repositorio de GitHub y descubre un conjunto diverso de proyectos que no solo reflejan mi dedicación, sino también mi deseo constante de perfeccionar mis habilidades!
+A pesar de ser relativamente nuevo en el entorno del desarrollo web, he tenido el privilegio de dar vida a varios proyectos que atestiguan mi capacidad para enfrentar desafíos complejos y mi firme compromiso con la calidad. ¡Echa un vistazo a mi repositorio de GitHub y descubre un conjunto diverso de proyectos que no solo reflejan mi dedicación, sino también mi deseo constante de perfeccionar mis habilidades!
 ## Compromiso Profesional
-Mi enfoque en la mejora constante y mi mentalidad emprendedora me han llevado a trascender los límites de lo convencional. Estoy decidido a contribuir al mundo del desarrollo de software de manera significativa y crear soluciones que marquen la diferencia.
+Mi enfoque en la mejora contínua y mi mentalidad emprendedora me han llevado a querer superar mis límites. Estoy decidido a contribuir al mundo del desarrollo de software de manera significativa y crear soluciones que marquen la diferencia.
 ## ¡Conéctate Conmigo!
 Estoy emocionado por las oportunidades de colaboración y aprendizaje. Si compartes mi pasión por el desarrollo web o simplemente quieres conectarte, ¡no dudes en enviarme un mensaje! Juntos, podemos hacer cosas asombrosas. ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres inspiración en mi viaje y proyectos, y estoy ansioso por lo que el futuro nos depara en el mundo del desarrollo web. 🚀✨
 
