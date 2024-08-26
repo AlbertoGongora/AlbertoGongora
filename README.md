@@ -1,15 +1,25 @@
 # 💫 Acerca de mí
 
-¡Hola! Soy Alberto Góngora, un apasionado estudiante de Full Stack Developer con un entusiasmo desbordante por el desarrollo web y la mejora contínua. Mi enfoque detallista y metodológico me impulsa a abordar desafíos de manera creativa y a buscar soluciones innovadoras.
+¡Hola! Soy Alberto Góngora, un geek del desarrollo web con un enfoque especial en el frontend. Me apasiona aprender, resolver problemas y crear experiencias digitales que realmente conecten con las personas. Mi curiosidad y ganas de mejorar constantemente me llevan a explorar y profundizar en nuevas tecnologías.
+
 ## Experiencia y Educación
-Actualmente, estoy inmerso en mi formación de Full Stack Developer en Hack a Boss, donde estoy adquiriendo habilidades integrales para convertirme en un desarrollador web versátil y altamente competente. Este viaje de aprendizaje no solo representa mi compromiso con la excelencia, sino también mi pasión por seguir creciendo en el emocionante campo del desarrollo de software.
+
+Recientemente culminé mi formación como Full Stack Developer en Hack a Boss, donde adquirí habilidades integrales que me han convertido en un desarrollador web versátil y altamente competente, con un enfoque especial en el frontend. Además, tengo una amplia experiencia profesional previa al sector IT, la cual me ha brindado valiosas habilidades en liderazgo y trabajo en equipo, que aplico con entusiasmo en el desarrollo web.
+
 ## Habilidades Técnicas
-Como apasionado del desarrollo web, he consolidado mis habilidades en tecnologías clave como HTML, CSS, JavaScript, y estoy trabajando en la construcción de proyectos prácticos que demuestren mi destreza técnica. Además, estoy explorando constantemente nuevas tecnologías y metodologías para mantenerme actualizado en un mundo digital en constante evolución.
+
+He consolidado mis habilidades en tecnologías clave como HTML, CSS, JavaScript, y estoy trabajando en la construcción de proyectos prácticos que demuestren mi destreza técnica. Estoy también profundizando en TypeScript, convencido de que es el futuro del desarrollo frontend. Siempre busco mantenerme actualizado en un mundo digital en constante evolución.
+
 ## Proyectos Destacados
-A pesar de ser relativamente nuevo en el entorno del desarrollo web, he tenido el privilegio de dar vida a varios proyectos que atestiguan mi capacidad para enfrentar desafíos complejos y mi firme compromiso con la calidad. ¡Echa un vistazo a mi repositorio de GitHub y descubre un conjunto diverso de proyectos que no solo reflejan mi dedicación, sino también mi deseo constante de perfeccionar mis habilidades!
+
+A pesar de ser relativamente nuevo en el entorno del desarrollo web, ya he tenido el privilegio de superar varios desafíos en proyectos frontend que reflejan mi dedicación y entusiasmo. ¡Echa un vistazo a mi repositorio de GitHub para descubrir un conjunto diverso de proyectos que no solo reflejan mi compromiso con la calidad, sino también mi deseo constante de perfeccionar mis habilidades!
+
 ## Compromiso Profesional
-Mi enfoque en la mejora contínua y mi mentalidad emprendedora me han llevado a querer superar mis límites. Estoy decidido a contribuir al mundo del desarrollo de software de manera significativa y crear soluciones que marquen la diferencia.
+
+Mi enfoque centrado en la excelencia, junto con una actitud proactiva y una constante búsqueda de mejora, me permiten ofrecer una versión ejemplar de mí mismo en cada proyecto y entorno laboral. Estoy decidido a contribuir al mundo del desarrollo de software de manera significativa y a crear soluciones que marquen la diferencia.
+
 ## ¡Conéctate Conmigo!
+
 Estoy emocionado por las oportunidades de colaboración y aprendizaje. Si compartes mi pasión por el desarrollo web o simplemente quieres conectarte, ¡no dudes en enviarme un mensaje! Juntos, podemos hacer cosas asombrosas. ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres inspiración en mi viaje y proyectos, y estoy ansioso por lo que el futuro nos depara en el mundo del desarrollo web. 🚀✨
 
 
